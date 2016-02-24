@@ -1,0 +1,26 @@
+{
+  "name": "douban-api-v2",
+  "version": "0.0.1",
+  "description": "豆瓣Api V2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": {
+    "name": "wzbg",
+    "email": "z3530515@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wzbg/douban-api-v2"
+  },
+  "keywords": [
+    "douban",
+    "api",
+    "v2"
+  ],
+  "dependencies": {
+    "sync-request": "^3.0.0"
+  }
+}
