@@ -1,6 +1,6 @@
 {
   "name": "douban-api-v2",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "豆瓣Api V2",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
     "v2"
   ],
   "dependencies": {
-    "sync-request": "^3.0.0"
+    "fetch": "^1.0.1"
   }
 }
